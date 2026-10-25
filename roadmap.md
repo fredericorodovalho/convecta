@@ -1,0 +1,12 @@
+- [x] Corrigir envio da primeira pergunta e verificar abertura do chat.
+- [x] Permitir fotos e prints no chat e verificar envio para análise.
+- [x] Criar chat de pesquisa CCT com conversas separadas e temporárias.
+- [x] Incorporar orientações do documento e anexos PDF, DOCX e texto.
+- [x] Verificar primeira resposta real, interface e leitura de anexos no navegador.
+- [x] Biblioteca de resumos com entrada Google, salvar resposta e exportar Word.
+- [x] Corrigir tela em branco na versão publicada (módulo de diagramas travava o carregamento).
+- [x] Verificar análise real de foto/print no navegador (a resposta citou a página 7 anexada).
+- [ ] Atualizar o endereço publicado: publicação recusada; a versão no ar ainda não aceita fotos.
+- [x] Verificar salvar, editar, excluir e exportar resumo com conta real: salvou, apareceu na biblioteca, editou, baixou Word (37 KB) e a busca achou por trecho do conteúdo.
+- [x] Corrigir gravação do resumo sem documento anexado: a regra de acesso recusava caminho vazio e o salvamento falava "Não foi possível salvar o resumo"; agora o documento ausente é guardado como vazio de verdade.
+- [x] Criar e verificar tela de pesquisa dos resumos salvos: conta real, busca, leitura completa, atualização da página e download Word.
